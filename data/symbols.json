@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Owl",
+      "primary_meaning": "Night",
+      "secondary_meanings": ["Winter", "fear"]
+    },
+    {
+      "name": "Hourglass",
+      "primary_meaning": "Time",
+      "secondary_meanings": ["Death", "change"]
+    },
+    {
+      "name": "Sun",
+      "primary_meaning": "Day",
+      "secondary_meanings": ["Authority", "truth"]
+    },
+    {
+      "name": "Alpha and Omega",
+      "primary_meaning": "Finality",
+      "secondary_meanings": ["Process", "inevitability"]
+    },
+    {
+      "name": "Marionette",
+      "primary_meaning": "Obedience",
+      "secondary_meanings": ["Submission", "grace"]
+    },
+    {
+      "name": "Serpent",
+      "primary_meaning": "Evil",
+      "secondary_meanings": ["Guile", "natural wisdom"]
+    },
+    {
+      "name": "Cauldron",
+      "primary_meaning": "Alchemy",
+      "secondary_meanings": ["Craft", "achieved wisdom"]
+    },
+    {
+      "name": "Anchor",
+      "primary_meaning": "Hope",
+      "secondary_meanings": ["Steadfastness", "prevention"]
+    },
+    {
+      "name": "Angel",
+      "primary_meaning": "Messenger",
+      "secondary_meanings": ["Hierarchy, Disobedience"]
+    },
+    {
+      "name": "Helmet",
+      "primary_meaning": "War",
+      "secondary_meanings": ["Protection", "narrow vision"]
+    },
+    {
+      "name": "Beehive",
+      "primary_meaning": "Productive work",
+      "secondary_meanings": ["Sweetness", "light"]
+    },
+    {
+      "name": "Moon",
+      "primary_meaning": "Chastity",
+      "secondary_meanings": ["Mystery", "the uncanny"]
+    },
+    {
+      "name": "Madonna",
+      "primary_meaning": "Motherhood",
+      "secondary_meanings": ["Feminine", "worship"]
+    },
+    {
+      "name": "Apple",
+      "primary_meaning": "Sin",
+      "secondary_meanings": ["Knowledge", "vanity"]
+    },
+    {
+      "name": "Bird",
+      "primary_meaning": "Soul",
+      "secondary_meanings": ["Freedom"]
+    },
+    {
+      "name": "Bread",
+      "primary_meaning": "Nourishment",
+      "secondary_meanings": ["Strict", "sacrifice"]
+    },
+    {
+      "name": "Ant",
+      "primary_meaning": "Mechanical work",
+      "secondary_meanings": ["Diligence", "tedium"]
+    },
+    {
+      "name": "Bull",
+      "primary_meaning": "Earth",
+      "secondary_meanings": ["Power", "honesty"]
+    },
+    {
+      "name": "Candle",
+      "primary_meaning": "Fire",
+      "secondary_meanings": ["Faith", "learning"]
+    },
+    {
+      "name": "Cornucopia",
+      "primary_meaning": "Wealth",
+      "secondary_meanings": ["Autumn", "hospitality"]
+    },
+    {
+      "name": "Chameleon",
+      "primary_meaning": "Air",
+      "secondary_meanings": ["Greed", "patience"]
+    },
+    {
+      "name": "Thunderbolt",
+      "primary_meaning": "Inspiration",
+      "secondary_meanings": ["Fate", "chance"]
+    },
+    {
+      "name": "Dolphin",
+      "primary_meaning": "Water",
+      "secondary_meanings": ["Resurrection", "succour"]
+    },
+    {
+      "name": "Walled Garden",
+      "primary_meaning": "Nature",
+      "secondary_meanings": ["Innocence", "order"]
+    },
+    {
+      "name": "Globe",
+      "primary_meaning": "Politics",
+      "secondary_meanings": ["Sovereignty", "fame"]
+    },
+    {
+      "name": "Sword",
+      "primary_meaning": "Justice",
+      "secondary_meanings": ["Fortitude", "Church"]
+    },
+    {
+      "name": "Griffin",
+      "primary_meaning": "Treasure",
+      "secondary_meanings": ["Watchfulness", "courage"]
+    },
+    {
+      "name": "Horse",
+      "primary_meaning": "Europe",
+      "secondary_meanings": ["Journeys", "fidelity"]
+    },
+    {
+      "name": "Camel",
+      "primary_meaning": "Asia",
+      "secondary_meanings": ["Summer", "perseverance"]
+    },
+    {
+      "name": "Elephant",
+      "primary_meaning": "Africa",
+      "secondary_meanings": ["Charity", "continence"]
+    },
+    {
+      "name": "Crocodile",
+      "primary_meaning": "America",
+      "secondary_meanings": ["Rapacity", "enterprise"]
+    },
+    {
+      "name": "Baby",
+      "primary_meaning": "Future",
+      "secondary_meanings": ["Malleability", "helplessness"]
+    },
+    {
+      "name": "Compass",
+      "primary_meaning": "Measurement",
+      "secondary_meanings": ["Mathematics", "science"]
+    },
+    {
+      "name": "Lute",
+      "primary_meaning": "Poetry",
+      "secondary_meanings": ["Rhetoric", "philosophy"]
+    },
+    {
+      "name": "Tree",
+      "primary_meaning": "Firmness",
+      "secondary_meanings": ["Shelter", "fertility"]
+    },
+    {
+      "name": "Wild man",
+      "primary_meaning": "Wild man",
+      "secondary_meanings": ["The masculine", "Lust"]
+    }
+  ]
+  
